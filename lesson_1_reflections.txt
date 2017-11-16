@@ -1,0 +1,6 @@
+I was able to see exactly where lines changed from version to version.
+Instead of looking line by line, I could pinpoint WHERE to look, dras-
+tically decreasing the amount of time necessary to skim through relevant
+parts of the file.
+
+
